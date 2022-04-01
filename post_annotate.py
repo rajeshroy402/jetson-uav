@@ -6,6 +6,7 @@ import argparse
 import time
 import pickle
 import os
+import sys
 from main import CAM_MOUNT_ANGLE
 
 def main():
