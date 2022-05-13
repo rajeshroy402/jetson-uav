@@ -4,7 +4,7 @@ Description=EagleEye service
 
 [Service]
 User=root
-ExecStart=/home/jon/Documents/jetson-uav/process.sh
+ExecStart=/home/Rajesh/Documents/jetson-uav/process.sh
 
 [Install]
 WantedBy=multi-user.target
